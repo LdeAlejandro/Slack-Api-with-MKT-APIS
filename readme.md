@@ -22,7 +22,6 @@ This project is a prototype for a backend application that integrates with vario
 ## Technologies Used
 
 - **Node.js**: Backend development environment.
-- **Express.js**: Framework for building the API server.
 - **Marketplace APIs**: Custom integrations for connecting to third-party marketplaces like Amazon, eBay, etc.
 - **Slack API**: Used to send and update messages in Slack channels.
 - **Axios**: HTTP client to handle API requests and responses.
